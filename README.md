@@ -1,2 +1,2 @@
 # P.Dispositivos-Mobiles
- Se muestran los proyectos de la clase
+Alumno: Luis Heberto Barrera Salas #15050915
